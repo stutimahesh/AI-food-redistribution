@@ -1,0 +1,11 @@
+food_type,distance_km,remaining_capacity,quantity,accepted
+Veg,2.5,300,50,1
+Veg,5.1,200,80,1
+Veg,12.0,40,100,0
+Non-Veg,4.2,400,120,1
+Non-Veg,10.3,60,150,0
+Bakery,1.5,250,20,1
+Bakery,14.5,20,40,0
+Fruits,3.2,180,40,1
+Rice,6.8,120,70,1
+Rice,18.5,15,90,0
